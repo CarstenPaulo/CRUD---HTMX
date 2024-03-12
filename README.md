@@ -4,12 +4,13 @@
 <p> Install Django ...</p>
 
 
-<p> Run the code </p>
+<p> Run the code. </p>
 
 
 
 
-<p> E N J O Y </p>
+<p> E N J O Y                     It.</p>
+
 
 
 
